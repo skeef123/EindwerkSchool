@@ -1,0 +1,21 @@
+USE [eindWerk]
+GO
+
+/****** Object:  Table [dbo].[adreslocatie]    Script Date: 28/05/2021 11:43:37 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[adreslocatie](
+	[id] [int] NOT NULL,
+	[x] [int] NOT NULL,
+	[y] [int] IDENTITY(1,1) NOT NULL,
+ CONSTRAINT [PK_adreslocatie] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

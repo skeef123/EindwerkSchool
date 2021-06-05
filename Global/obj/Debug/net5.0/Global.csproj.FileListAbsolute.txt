@@ -1,0 +1,15 @@
+C:\Users\robre\source\repos\WpfApp1\Global\bin\Debug\net5.0\Global.deps.json
+C:\Users\robre\source\repos\WpfApp1\Global\bin\Debug\net5.0\Global.dll
+C:\Users\robre\source\repos\WpfApp1\Global\bin\Debug\net5.0\ref\Global.dll
+C:\Users\robre\source\repos\WpfApp1\Global\bin\Debug\net5.0\Global.pdb
+C:\Users\robre\source\repos\WpfApp1\Global\bin\Debug\net5.0\Data.dll
+C:\Users\robre\source\repos\WpfApp1\Global\bin\Debug\net5.0\Data.pdb
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.csprojAssemblyReference.cache
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.AssemblyInfoInputs.cache
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.AssemblyInfo.cs
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.csproj.CoreCompileInputs.cache
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.csproj.CopyComplete
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.dll
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\ref\Global.dll
+C:\Users\robre\source\repos\WpfApp1\Global\obj\Debug\net5.0\Global.pdb

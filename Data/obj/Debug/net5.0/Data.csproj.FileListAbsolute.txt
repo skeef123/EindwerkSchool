@@ -1,0 +1,12 @@
+C:\Users\robre\source\repos\WpfApp1\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\robre\source\repos\WpfApp1\Data\bin\Debug\net5.0\Data.dll
+C:\Users\robre\source\repos\WpfApp1\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\robre\source\repos\WpfApp1\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.dll
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\robre\source\repos\WpfApp1\Data\obj\Debug\net5.0\Data.pdb
